@@ -1,0 +1,7 @@
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\bin\Debug\Array_Ex01Pag72.exe.config
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\bin\Debug\Array_Ex01Pag72.exe
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\bin\Debug\Array_Ex01Pag72.pdb
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\obj\Debug\Array_Ex01Pag72.csproj.AssemblyReference.cache
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\obj\Debug\Array_Ex01Pag72.csproj.CoreCompileInputs.cache
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\obj\Debug\Array_Ex01Pag72.exe
+C:\Programas\Curso DIO\Array_Ex01Pag72\Array_Ex01Pag72\obj\Debug\Array_Ex01Pag72.pdb
